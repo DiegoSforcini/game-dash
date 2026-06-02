@@ -1,0 +1,11 @@
+{
+  "colors": [
+    { "id": "c-amarelo", "name": "Amarelo", "hex": "#FFD700", "points": 5 },
+    { "id": "c-azul", "name": "Azul", "hex": "#1E90FF", "points": 10 },
+    { "id": "c-vermelho", "name": "Vermelho", "hex": "#DC143C", "points": 20 },
+    { "id": "c-verde", "name": "Verde", "hex": "#228B22", "points": 50 }
+  ],
+  "players": [],
+  "currentMatch": null,
+  "history": []
+}
